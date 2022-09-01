@@ -1,0 +1,9 @@
+name: trajectory
+
+channels:
+  - default
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pip # pip must be mentioned explicitly, or conda-lock will fail
