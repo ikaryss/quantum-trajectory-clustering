@@ -140,9 +140,20 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python.idea
 .idea/
+.vscode
 
 #lock fle with current dependencies
 poetry.lock
 
 # jupyter tests
 tech_tests.ipynb
+1000_samples.ipynb
+data_prepare.ipynb
+q_trajectories.ipynb
+
+# data
+/raw_data
+/result_data
+
+# images
+*.png
