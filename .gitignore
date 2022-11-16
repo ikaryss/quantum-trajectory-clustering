@@ -150,10 +150,13 @@ tech_tests.ipynb
 1000_samples.ipynb
 data_prepare.ipynb
 q_trajectories.ipynb
+cluster_pipline.ipynb
 
 # data
-/raw_data
-/result_data
+*.pkl
+*.npy
 
 # images
 *.png
+!docs/images/logo.png
+!docs/images/random_ground_exited.png
