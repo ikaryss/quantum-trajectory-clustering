@@ -64,7 +64,9 @@ by using various machine learning algorithms.
 <details>
 <summary>Screenshots</summary>
 <br>  
-Ground and exited singleshot measurement example  
+
+Ground and exited singleshot measurement example   
+
 
 <img src="docs/images/random_ground_exited.png" title="ground and exited singleshot example" width="50%">   
 
